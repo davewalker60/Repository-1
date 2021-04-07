@@ -1,0 +1,4 @@
+"Guid","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__TargetObject__c","test_text__c"
+864fcbfd-6b58-49cd-a64f-60789e258470,Test Price Rule 1,true,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator,"#N/A"
+8a561627-2374-432f-9c02-de32234219fc,Test Price Rule 2,true,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator,"#N/A"
+ffa252a1-7c17-4043-a610-584389c799ba,Set Partner Discount based on Lookup Query,false,"#N/A",All,"#N/A",On Calculate,40.0,Partner_Level__c,Calculator,"#N/A"
